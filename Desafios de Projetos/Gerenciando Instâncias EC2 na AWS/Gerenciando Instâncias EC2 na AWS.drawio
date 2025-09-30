@@ -83,7 +83,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SEBLVLCx2G0gisFIdBHa-4" value="Arquivo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="130" y="520" width="130" height="70" as="geometry" />
+          <mxGeometry x="70" y="540" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ya5fFuRNV7sdqICOQBjz-1" value="Sistemas de Arquivos" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actor_1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="540" width="23.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ya5fFuRNV7sdqICOQBjz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ya5fFuRNV7sdqICOQBjz-1" target="SEBLVLCx2G0gisFIdBHa-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
